@@ -8,5 +8,5 @@ You can see the [document here](Overview_of_ML.pdf)
 You can see the [document here](ML_Assignment2.pdf) and [the code here](main.cpp)
 
 ##Linear Models
-You can see the [regression document here] (regression.pdf) and [classification document here] (Classification.pdf)
+You can see the [regression document here](regression.pdf) and [classification document here](Classification.pdf)
 
