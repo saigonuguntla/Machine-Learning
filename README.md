@@ -12,5 +12,6 @@ You can see the [regression document here](regression.pdf) and [classification d
 
 ## ML Algorithms from scratch
 You can see the [Logistic regression document here](LRscratch.cpp) and [Naive bayes document here](NBscratch.cpp)
+And you can see the [ML Algorithm from Scratch document here](MLscratch.pdf) 
 
 
