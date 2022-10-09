@@ -14,4 +14,6 @@ You can see the [regression document here](regression.pdf) and [classification d
 You can see the [Logistic regression document here](LRscratch.cpp), [Naive bayes document here](NBscratch.cpp).
 And you can see the [ML Algorithm from Scratch document here](MLscratch.pdf) 
 
+## Searching For Similarity
+You can see the [Linear-kNN-DecisionTree Regression document here](N1-Regression.pdf)
 
