@@ -15,5 +15,6 @@ You can see the [Logistic regression document here](LRscratch.cpp), [Naive bayes
 And you can see the [ML Algorithm from Scratch document here](MLscratch.pdf) 
 
 ## Searching For Similarity
-You can see the [Notebook1 Regression document here](N1-Regression.pdf)
+You can see the [Notebook1 Regression document here](N1-Regression.pdf), [Notebook2 Classification document here](Notebook2.pdf), 
+[Notebook3 Clustering document here](Notebook3.pdf), [Notebook4 Dimensionality Reduction document here](Notebook4.pdf), 
 
