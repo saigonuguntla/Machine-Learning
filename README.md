@@ -19,3 +19,8 @@ You can see the [Notebook1 Regression document here](N1-Regression.pdf), [Notebo
 [Notebook3 Clustering document here](Notebook3.pdf), [Notebook4 Dimensionality Reduction document here](Notebook4.pdf).
 And you can see the [Narrative document here](ML_Searching_for_Similarity.pdf) 
 
+## Kernel and Ensemble Methods
+You can see the [Notebook1 Regression document here](SVMRegression.pdf), [Notebook2 Classification document here](SVMClassification.pdf), 
+[Notebook3 Ensemble document here](EnsembleMethods.pdf).
+And you can see the [Narrative document here](KernelEnsemble_Methods.pdf) 
+
