@@ -24,3 +24,5 @@ You can see the [Notebook1 Regression document here](SVMRegression.pdf), [Notebo
 [Notebook3 Ensemble document here](EnsembleMethods.pdf).
 And you can see the [Narrative document here](KernelEnsemble_Methods.pdf) 
 
+## ML with sklearn
+You can see the [ML sklearn document here](sklearn.pdf)
