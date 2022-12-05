@@ -28,4 +28,4 @@ And you can see the [Narrative document here](KernelEnsemble_Methods.pdf)
 You can see the [ML sklearn document here](sklearn.pdf)
 
 ## Image Classification
-You can see the [Image Classification document here](ImageClassification.pdf)
+You can see the [Image Classification document here](KerasImageClassification.pdf)
